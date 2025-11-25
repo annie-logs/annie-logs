@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-   <a href="https://github.com/i-anniie">
+   <a href="https://github.com/annie-logs">
     <img src="https://img.shields.io/badge/👋%20Hey%2C%20I'm-Anwesh-000000?style=for-the-badge&logo=github&logoColor=white" alt="Anwesh" style="height: 60px;"/>
   </a>
 </h1>
